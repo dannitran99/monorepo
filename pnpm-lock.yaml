@@ -19,6 +19,7 @@ importers:
       isbot: ^3.6.8
       react: ^18.2.0
       react-dom: ^18.2.0
+      shared-ui: workspace:^1.0.0
       typescript: ^5.0.4
     dependencies:
       '@remix-run/css-bundle': 1.18.1
@@ -28,6 +29,7 @@ importers:
       isbot: 3.6.12
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
+      shared-ui: link:../../packages/shared-ui
     devDependencies:
       '@remix-run/dev': 1.18.1_@remix-run+serve@1.18.1
       '@remix-run/eslint-config': 1.18.1_ete23ejsbkzmr6ksez67krfwou
