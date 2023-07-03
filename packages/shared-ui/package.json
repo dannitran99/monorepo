@@ -11,9 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "node-sass": "^9.0.0",
     "react": "^18.2.0"
   },
   "devDependencies": {
+    "sass": "^1.63.6",
     "typescript": "^5.0.4"
   }
 }
